@@ -1,7 +1,7 @@
 import { useState, createContext } from 'react'
 import Todos from './components/Todos'
 import TodoForm from './components/TodoForm'
-import './App.css'
+// import './App.css'
 
 export const TodoContext = createContext()
 
